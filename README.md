@@ -21,7 +21,7 @@ Since web coding is very visually oriented it is a great place to start as a beg
 <!-- Add yourself to the list below in this format: [Austin Pray](htts://github.com/austinpray) -->
 <!-- If you need help with markdown have a look at: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet -->
 Students:
-- ???
+- Grady Sullivan
 - ???
 
 
